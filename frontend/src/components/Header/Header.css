@@ -26,7 +26,7 @@
 
 .header-contents p{
     color: white;
-    font-size:1vw;
+    font-size:15px;
 }
 
 
@@ -58,5 +58,6 @@
     }
     .header-contents button{
         padding: 2vw 4vw;
+        margin-bottom: 14px;
     }
 }
